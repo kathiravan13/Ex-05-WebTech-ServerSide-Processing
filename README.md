@@ -105,6 +105,7 @@ Publish the website in the given URL.
 </body>
 </html>
 # views.py
+```
 from django.shortcuts import render
 def rectarea(request):
     context={}
@@ -124,6 +125,7 @@ def rectarea(request):
         context['b'] = b
         print('Area=',area)
     return render(request,'myapp/math.html',context)
+    ```
 # urls.py
 """From URL Configuration
 
