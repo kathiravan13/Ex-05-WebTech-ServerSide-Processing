@@ -108,9 +108,7 @@ Publish the website in the given URL.
 
 # OUTPUT:
 
-![kathir server](https://user-images.githubusercontent.com/119831303/215305165-27eace6d-d66b-4418-ab84-b8b61b5fa513.png)
 
-
-# RESULT:
+![kathir server](https://user-images.githubusercontent.com/119831303/215305366-14eff5e1-4405-489c-9be0-10af4fde654f.png)
 
 The program is executed succesfully
